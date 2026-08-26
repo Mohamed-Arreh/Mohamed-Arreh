@@ -1,6 +1,9 @@
 # Mohamed
 
-Self-taught full-stack developer in Ottawa, focused on AI-powered applications. I build across two stacks: TypeScript/Next.js and Python/FastAPI with hands-on work in LLM integration, RAG pipelines, and tool-calling agents.
+<img width="500" height="281" alt="Benimaru and Joker  _ Anime _ Manga" src="https://github.com/user-attachments/assets/c84a72f5-7744-4fb2-89c2-ec4ff7962614" />
+
+
+Ottawa-based bilingual IT support candidate with hands-on experience in Windows, Active Directory, Microsoft 365, Linux and networking labs. I also build AI-assisted applications using Next.js, Python, APIs and RAG pipelines.
 
 **Recent projects:**
 
